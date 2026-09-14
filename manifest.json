@@ -1,0 +1,8 @@
+{
+  "name": "ALPHA \u2014 Alien Alliance",
+  "short_name": "ALPHA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f"
+}
